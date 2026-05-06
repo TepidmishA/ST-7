@@ -45,7 +45,7 @@ public class App
             System.out.println("Generated password: " + password);
             
         } catch (Exception e) {
-            System.out.println("T ask 1 error: " + e.getMessage());
+            System.out.println("Task 1 error: " + e.getMessage());
         }
     }
 }
